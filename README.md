@@ -1,1 +1,1 @@
-# Advanced WebProgramming - First half of 2020
+# Advanced WebProgramming - First half-year of 2020
