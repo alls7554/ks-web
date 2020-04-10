@@ -1,10 +1,10 @@
 package com.cheoloh.app.Controller;
 
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
-@org.springframework.stereotype.Controller
-public class Controller {
-
+@Controller
+public class IndexController {
     @GetMapping("/")
     public String index(){
         return "index";
