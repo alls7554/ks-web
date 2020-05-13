@@ -8,4 +8,3 @@
 1. View와 Model 다루기
 2. Entity를 생성하는 간단한 방법 연습
 3. View와 Model을 연결하는 방법 연습
-4. HTML의 form을 사용해서 CRUD하는 방법 연습
